@@ -1,0 +1,12 @@
+SRM PRO-STORE
+
+1. KMeans based product organization
+
+2. Object detection YOLO.
+
+3. Graph me in (a pathfinder algo to help find the 
+right product rack)
+
+4. Smart trays that keep a count.
+
+5. Fingerprint exit.
